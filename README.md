@@ -21,7 +21,7 @@ Users should be able to:
 - See hover states for all interactive elements.
 
 Links
-- Solution URL: [Add your GitHub URL here]
+- Solution URL: [https://github.com/ndilisa/four-card-feature-section-card]
 - Live Site URL: [https://ndilisa.github.io/four-card-feature-section-card/]
 
 My process
