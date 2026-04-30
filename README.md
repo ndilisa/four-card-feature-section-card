@@ -40,7 +40,7 @@ During this project, I focused on translating a static design into a functional,
 - Asset Management: Implementing SVG icons and ensuring they align correctly within a flexible container.
 
 New Topics Introduced
-This project pushed me beyond basic CSS into more advanced layout and interactivity concepts:
+- This project pushed me beyond basic CSS into more advanced layout and interactivity concepts:
 1. Multi-Column CSS Grid: I learned how to use grid-template-columns and grid-row to create the unique "staggered" 3-column layout seen in desktop-preview.jpg[cite: 1, 2].
 2. Responsive Breakpoints: I introduced media queries to ensure the layout stacks vertically in mobile-design.jpg while expanding for larger screens[cite: 1, 2].
 3. Dynamic Hover States: I implemented transition and transform properties to create smooth scaling effects and custom colored shadows (e.g., .red:hover)[cite: 2].
