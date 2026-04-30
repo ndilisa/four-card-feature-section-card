@@ -47,6 +47,4 @@ New Topics Introduced
 4. External Font Integration: I learned how to properly @import and apply specialized weights (200, 400, 600) for the Poppins typeface.
 
 Author
-LinkedIn - [https://linkedin/ndilisa-kula]
-
-Frontend Mentor - [https://www.frontendmentor.io/profile/ndilisa]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/ndilisa]
